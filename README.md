@@ -94,7 +94,9 @@ public class BankManagementSystem {
 }
 ```
 ## Output Screenshots
-![image](<img width="656" height="1017" alt="javaBMS1" src="https://github.com/user-attachments/assets/ecfe5674-d181-48df-a298-3e05b0c84c91" />)
+![image](javaBMS1.png)
+
+![image](javaBMS2.png)
 
 ## Gained Insights
 - Learned the importance of matching Java class names with file names (case sensitivity).
